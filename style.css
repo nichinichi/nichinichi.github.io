@@ -30,7 +30,7 @@ body {
   right: 3%;
 }
 
-.nav a #alternates {
+.nav #alternates {
   font-family: 'Nunito Sans', sans-serif;
   font-size: 17px;
   style: italic;
